@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+.Digi-header {
+  background-color: #738fba;
+  font-family: 'Helvetica', 'Arial'  ;
+  text-align: center ;
+  line-height: 5px;
+  border-radius: 5px;
+  color:  #C03000;
+  min-height: 10vh;
+}
+
+.Digi-footer {
+  background-color:  #bf2657;
+  font-family: 'Helvetica', 'Arial'  ;
+  text-align: center ;
+  line-height: 7px;
+  border-radius: 3px;
+  color:   #C03000 ;
+}
+
+.Digi-main {
+  background-color:  #bf2657;
+  font-family: 'Helvetica', 'Arial'  ;
+  text-align: justify ;
+  font-size: 12px ;
+  background-color: #d7d7e0;
+  line-height: 7px;
+  border-radius: 3px ;
+  border-color: #9191a1;
+  color:    #4e876e;
+}
