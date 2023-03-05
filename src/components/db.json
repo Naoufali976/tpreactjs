@@ -1,0 +1,42 @@
+{
+    "list": [
+      {
+        "id":1,
+        "nom":"Germain",
+        "prenom" :"Christophe",
+        "adresse" : "rue nationale",
+        "codePostal" : "24000",
+        "ville" : "Perigueux",
+        "age" : 18
+    },
+    {
+      "id":2,
+      "nom":"mohamed",
+      "prenom" :"hamidi",
+      "adresse" : "rue olivier",
+      "codePostal" : "35000",
+      "ville" : "Perigueux",
+      "age" : 48
+  },
+  {
+    "id":3,
+    "nom":"julie",
+    "prenom" :"dele",
+    "adresse" : "avenur nationale",
+    "codePostal" : "75000",
+    "ville" : "paris",
+    "age" : 38
+  }
+   
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  } 
